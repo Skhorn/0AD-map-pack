@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity>
+  <Decay>
+    <Active>false</Active>
+    <SinkingAnim>false</SinkingAnim>
+    <DelayTime>100.0</DelayTime>
+    <SinkRate>0.2</SinkRate>
+    <SinkAccel>0</SinkAccel>
+  </Decay>
+  <Ownership/>
+  <Position>
+    <Altitude>0</Altitude>
+    <Anchor>upright</Anchor>
+    <Floating>false</Floating>
+    <TurnRate>6.0</TurnRate>
+  </Position>
+  <Visibility>
+    <RetainInFog>true</RetainInFog>
+    <AlwaysVisible>false</AlwaysVisible>
+    <Preview>false</Preview>
+  </Visibility>
+  <Vision>
+    <Range>0</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/rubble_stone_3x3.xml</Actor>
+    <SilhouetteDisplay>false</SilhouetteDisplay>
+    <SilhouetteOccluder>false</SilhouetteOccluder>
+    <VisibleInAtlasOnly>false</VisibleInAtlasOnly>
+  </VisualActor>
+</Entity>

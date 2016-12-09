@@ -1,0 +1,7 @@
+{
+    "name": "map_Constantinople",
+    "label": "Fall of Constantinople",
+    "description": "Rough recreation of one of the many sieges held in Constantinople and their famous Theodosian Walls.",
+    "dependencies": ["0ad", "eyecandy_objects"],
+    "type": "Scenario"
+}

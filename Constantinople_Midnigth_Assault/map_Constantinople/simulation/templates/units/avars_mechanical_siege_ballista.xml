@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="special_units/cart_mechanical_siege_ballista_common">
+  <Attack>
+    <Ranged>
+      <Hack>0.0</Hack>
+      <Pierce>10.0</Pierce>
+      <Crush>50.0</Crush>
+      <MaxRange>400</MaxRange>
+      <MinRange>12.0</MinRange>
+      <ProjectileSpeed>30.0</ProjectileSpeed>
+      <PrepareTime>6000</PrepareTime>
+      <RepeatTime>6000</RepeatTime>
+      <Spread>6.0</Spread>
+      <Splash>
+        <Shape>Circular</Shape>
+        <Range>15</Range>
+        <FriendlyFire>false</FriendlyFire>
+        <Hack>0.0</Hack>
+        <Pierce>20.0</Pierce>
+        <Crush>35.0</Crush>
+      </Splash>
+    </Ranged>
+  </Attack>
+  <Vision>
+    <Range>400</Range>
+  </Vision>
+  <Identity>
+    <GenericName>Avars Siege Catapult</GenericName>
+    <Icon>units/cart_mechanical_siege_ballista.png</Icon>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed>0.001</WalkSpeed>
+    <Run>
+      <Speed>0.001</Speed>
+    </Run>
+  </UnitMotion>
+    <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/carthaginians/siege_rock.xml</Actor>
+  </VisualActor>
+</Entity>

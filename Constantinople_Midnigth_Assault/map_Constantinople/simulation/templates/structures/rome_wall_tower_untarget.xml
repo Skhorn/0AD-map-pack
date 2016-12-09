@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defense_wall_tower">
+  <Armour>
+    <Hack>0</Hack>
+  </Armour>
+  <Health>
+    <Max>0</Max>
+  </Health>
+  <Footprint>
+    <Square width="12.5" depth="12.5"/>
+    <Height>18.0</Height>
+  </Footprint>
+  <BuildingAI>
+    <DefaultArrowCount>1</DefaultArrowCount>
+  </BuildingAI>
+  <GarrisonHolder>
+    <Max>5</Max>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>rome</Civ>
+    <SpecificName>Turris Lapidea</SpecificName>
+    <History>(Insert history here)</History>
+  </Identity>
+  <Obstruction>
+    <Static width="9.5" depth="9.5"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/romans/wall_tower.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>9.5</Length>
+  </WallPiece>
+</Entity>
