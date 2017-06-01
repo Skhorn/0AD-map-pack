@@ -5,32 +5,42 @@
 ## Constantinople
 
   Dependencies { in the folder, scripts currently not working well }
+  
+![alt text][logo]
 
-image::/screenshots/Constantinople_preview.png[]
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Constantinople_preview.png "Paris"
 
 ## Halicarnassus
 
   Dependencies {}
   
-image::/screenshots/Halicarnassus_preview.png[]
+![alt text][logo]
+
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Halicarnassus_preview.png "Paris"
 
 ## Paris
 
   Dependencies{ Ponies Ascendant, Millenium AD, Eyecandy mods }
   
-image::/screenshots/Paris_preview.png[]
+![alt text][logo]
+
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Paris_preview.png "Paris"
 
 ## Weiyang Palace
   
   Dependencies { Rise of the east }
   
-image::/screenshots/Weiyang_preview.png[]
+![alt text][logo]
+
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Weiyang_preview.png "Weiyang Palace"
 
 ## Pataliputra
   
   Dependencies { None }
 
-image::/screenshots/Pataliputra_preview.png[]
+![alt text][logo]
+
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Pataliputra_preview.png "Pataliputra"
 
 ## Mother North
   
