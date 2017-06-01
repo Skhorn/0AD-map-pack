@@ -6,47 +6,47 @@
 
   Dependencies { in the folder, scripts currently not working well }
   
-![alt text][logo]
+![alt text][Constantinople]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Constantinople_preview.png "Constantinople"
+[Constantinople]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Constantinople_preview.png "Constantinople"
 
 ## Halicarnassus
 
   Dependencies {}
   
-![alt text][logo]
+![alt text][Halicarnassus]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Halicarnassus_preview.png "Halicarnassus"
+[Halicarnassus]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Halicarnassus_preview.png "Halicarnassus"
 
 ## Paris
 
   Dependencies{ Ponies Ascendant, Millenium AD, Eyecandy mods }
   
-![alt text][logo]
+![alt text][Paris]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Paris_preview.png "Paris"
+[Paris]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Paris_preview.png "Paris"
 
 ## Weiyang Palace
   
   Dependencies { Rise of the east }
   
-![alt text][logo]
+![alt text][Weiyang]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Weiyang_preview.png "Weiyang Palace"
+[Weiyang]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Weiyang_preview.png "Weiyang Palace"
 
 ## Pataliputra
   
   Dependencies { None }
 
-![alt text][logo]
+![alt text][Pataliputra]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Pataliputra_preview.png "Pataliputra"
+[Pataliputra]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Pataliputra_preview.png "Pataliputra"
 
 ## Mother North
   
   Dependencies { Eyecandy mods }
   
-![alt text][logo]
+![alt text][North]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Mother_North_preview.png "Mother North"
+[North]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Mother_North_preview.png "Mother North"
 
