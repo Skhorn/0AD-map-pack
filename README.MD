@@ -37,5 +37,6 @@ image::/screenshots/Pataliputra_preview.png[]
   Dependencies { Eyecandy mods }
   
 ![alt text][logo]
+
 [logo]: https://github.com/Skhorn/0AD-map-pack/tree/master/screenshots/Mother_North_preview.png "Mother North"
 
