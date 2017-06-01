@@ -8,7 +8,7 @@
   
 ![alt text][logo]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Constantinople_preview.png "Paris"
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Constantinople_preview.png "Constantinople"
 
 ## Halicarnassus
 
@@ -16,7 +16,7 @@
   
 ![alt text][logo]
 
-[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Halicarnassus_preview.png "Paris"
+[logo]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Halicarnassus_preview.png "Halicarnassus"
 
 ## Paris
 
