@@ -1,6 +1,11 @@
 # 0AD-Skhorn-map-pack
 0 AD Custom maps, not playable (Yet), just as a showcase of the capabilities of the engine
 
+## How to:
+
+1. Download/Clone
+2. Move the map to 0ad/binaries/data/mods/public/maps/scenarios or 0ad/binaries/data/mods/public/maps/skirmishes, depending on the layout of the map, If it depends on a mod, e.g 0ad/binaries/data/mods/millenniumad/maps/skirmishes just put the map into the respective mod map folder, otherwise it won't work.
+
 
 ## Constantinople
 
