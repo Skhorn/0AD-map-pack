@@ -68,6 +68,8 @@
 
   Dependencies { Millenium AD, v22+ }
   
-  ![alt text][Messana]
+  ![alt text][Norsemen]
 
-[Messana]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Norsemen_preview.png "Norsemen"
+[Norsemen]: https://github.com/Skhorn/0AD-map-pack/blob/master/screenshots/Norsemen_preview.png "Norsemen"
+
+
