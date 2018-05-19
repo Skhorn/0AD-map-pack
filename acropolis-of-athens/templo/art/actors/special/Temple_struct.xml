@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Athenian temple">
+      <mesh>structural/campaigns/Temple_structure.dae</mesh>
+      <props>
+        <prop actor="special/Temple_decor.xml" attachpoint="root"/>
+        <prop actor="special/Temple_pillars.xml" attachpoint="root"/>
+        <prop actor="special/Temple_floor.xml" attachpoint="root"/>
+		<prop actor="special/Temple_roof.xml" attachpoint="root"/>
+		<prop actor="special/Temple_props.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="structural/kart_struct.dds" name="baseTex"/>
+        <texture file="structural/kart_struct_norm.png" name="normTex"/>
+        <texture file="structural/kart_struct_spec.png" name="specTex"/>
+        <texture file="structural/ao/athen_temple.png" name="aoTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant name="alive" frequency="1"/>
+    <variant name="death">
+      <props>
+        <prop actor="particle/destruction_smoke_med.xml" attachpoint="smoke"/>
+        <prop actor="particle/destruction_dust_med.xml" attachpoint="smoke"/>
+        <prop actor="particle/destruction_dust_med_gray.xml" attachpoint="smoke"/>
+        <prop actor="special/Temple_decor.xml" attachpoint="root"/>
+        <prop actor="special/Temple_pillars.xml" attachpoint="root"/>
+        <prop actor="special/Temple_floor.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <material>player_trans_ao_parallax_spec.xml</material>
+</actor>
